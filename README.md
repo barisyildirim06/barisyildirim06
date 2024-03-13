@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Barış Yıldırım</h1>
 <h3 align="center">A passionate fullstack developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=barisyildirim06&label=Profile%20views&color=0e75b6&style=flat" alt="barisyildirim06" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barisyildirim06" alt="barisyildirim06" /></a> </p>
 
 - I am top rated Upwork developer, you can reach out my profile from here: [https://www.upwork.com/freelancers/~0169711633cdac57ea](https://www.upwork.com/freelancers/~0169711633cdac57ea)
