@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Barış Yıldırım</h1>
 <h3 align="center">A passionate fullstack developer from Turkey</h3>
 
-- I am top rated Upwork developer, you can reach out my profile from here: [https://www.upwork.com/freelancers/~0169711633cdac57ea](https://www.upwork.com/freelancers/~0169711633cdac57ea)
-
 - 💬 Ask me about **React.js, Next.js, Node.js**
 
 - 📫 How to reach me **yildrmbaris@gmail.com**
